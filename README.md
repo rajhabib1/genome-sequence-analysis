@@ -21,7 +21,7 @@ Welcome to the Advanced Genome Sequence Analysis Tool, a Python script designed 
 2. Run the script and follow the on-screen instructions to analyze your DNA data.
 
 ## Installation
-https://github.com/rajhabib1/genome-sequence-analysis.git
+https://github.com/rajhabib1/genome-sequence-analysis/blob/main/Genome%20Analysis.py
 1. Ensure you have Python installed (version 3.6 or higher).
 2. Add your DNA sequence to the "dna_sequence.txt" file within the script's directory.
 3. Run the script: python genome_analysis.py
